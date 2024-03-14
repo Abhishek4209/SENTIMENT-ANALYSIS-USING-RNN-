@@ -1,0 +1,13 @@
+pandas
+seaborn
+matplotlib
+nltk
+tensorflow
+ipykernel
+nltk
+keras-preprocessing
+keras
+
+
+
+# e.
